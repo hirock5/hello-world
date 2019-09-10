@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am hirock5 on github.
+  * I am hirock5 (https://keybase.io/hirock5) on keybase.
+  * I have a public key ASCmZYZgqoRuVWSH-gNwuFvKnEG5NnI1nsNS77dzF2lljgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a6658660aa846e556487fa0370b85bca9c41b93672359ec352efb7731769658e0a",
+      "host": "keybase.io",
+      "kid": "0120a6658660aa846e556487fa0370b85bca9c41b93672359ec352efb7731769658e0a",
+      "uid": "9d484c78f439d438a8cc684942424119",
+      "username": "hirock5"
+    },
+    "merkle_root": {
+      "ctime": 1568089229,
+      "hash": "1f74a238be7310e48e91d5570a123128fafb476fc482ebc73a72830b7cf1d5a6f8d82e35706195b5a9d77c3605e0997c1b79721c94af04745d2c3ca1534b600c",
+      "hash_meta": "f8986230c5a64a8cfe55c9a892b0a227f57e040993b685565039262bba682306",
+      "seqno": 6309970
+    },
+    "service": {
+      "entropy": "I1TTANWKEbqQMfjfeESUFxzy",
+      "name": "github",
+      "username": "hirock5"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568089243,
+  "expire_in": 504576000,
+  "prev": "f253615f6674bfab09b70c0330adbd8106ae6978b294d578f518f48f8f45a3ee",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCmZYZgqoRuVWSH-gNwuFvKnEG5NnI1nsNS77dzF2lljgo](https://keybase.io/hirock5), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpmWGYKqEblVkh/oDcLhbypxBuTZyNZ7DUu+3cxdpZY4Kp3BheWxvYWTESpcCBcQg8lNhX2Z0v6sJtwwDMK29gQauaXiylNV49Rj0j49Fo+7EIN8xIWWkuOj9fM+y+aoc0bfVmDgGImHYlRmAuFSgUnNdAgHCo3NpZ8RA2JmeLrm+01eL6LySRftPkyuUbMt17U3hfqnuvHUJO3arYIcHT3kiN6tPyZ5w2sBnn2STe1XHTsEI8YhfwvPjBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ3TZTieGKCfYiU/3KBWxUAxeutTWe3u6z/Jrvt1oWjfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hirock5
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hirock5
+```
